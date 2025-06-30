@@ -1,2 +1,2 @@
-# git_test
+# GitHub Test Repository
 testing github repository
